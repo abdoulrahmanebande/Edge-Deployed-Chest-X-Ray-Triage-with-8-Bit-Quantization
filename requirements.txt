@@ -1,0 +1,14 @@
+torch 
+torchvision 
+scikit-learn 
+matplotlib 
+flask 
+pillow 
+grad-cam
+setuptools
+kaggle
+six
+grad-cam 
+pillow
+
+# -e .

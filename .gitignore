@@ -159,6 +159,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Data
+/data
+
 # Conda environments
 conda-meta/
 
