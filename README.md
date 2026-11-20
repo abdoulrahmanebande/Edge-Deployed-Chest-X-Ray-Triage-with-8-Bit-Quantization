@@ -30,7 +30,7 @@ In under-resourced clinics where specialist radiologists and hospital GPU server
 
 1. **Clone the repository and install dependencies:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/abdoulrahmanebande/Edge-Deployed-Chest-X-Ray-Triage-with-8-Bit-Quantization/tree/main
    cd edge-chest-xray-triage
    pip install -r requirements.txt
    ```

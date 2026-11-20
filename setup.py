@@ -17,7 +17,7 @@ def get_requirements(file_path: str) -> List[str] :
 
 setup (
   name='Edge-Deployed Chest X-Ray Triage',
-  description='',
+  description='Lightweight chest X-ray pneumonia triage web app using 8-bit quantized (INT8) MobileNetV3-Small and Grad-CAM visual explainability for fast CPU inference in low-resource clinics.',
   version='0.0.1',
   author='Abdoul-Rahmane BANDE',
   author_email='abdoulrahmanebande@gmail.com',
